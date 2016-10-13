@@ -13,8 +13,8 @@ Currently this module supports the following formats:
 ### User Guide
  Install module using npm
  
- '''
+ ```
  npm install yuv-video
- '''
+ ```
  
  JSdoc can be found here: https://github.com/gilson27/yuv-video/jsdoc
