@@ -1,5 +1,5 @@
 # yuv-video
- ==========
+
 A nodejs module to read YUV video file and convert it to different formats.
 
 Raw videos (Videos captured by camera before processing) are mainly in two formats: RGB and YUV. This module aims to help users to read YUV
@@ -11,7 +11,6 @@ Currently this module supports the following formats:
 * V210 - 10bit interlaced 
 
 ## User Guide
- -----------
  Install module using npm
  
  ** npm install yuv-video **
