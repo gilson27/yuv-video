@@ -8,7 +8,7 @@ Raw videos (Videos captured by camera before processing) are mainly in two forma
 
 Currently this module supports the following formats:
 * YV12 - 8bit planar 420
-* V210 - 10bit interlaced 
+* V210 - 10bit interlaced 422
 
 ### User Guide
  Install module using npm
