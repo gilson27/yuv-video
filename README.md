@@ -10,7 +10,7 @@ Currently this module supports the following formats:
 * YV12 - 8bit planar 420
 * V210 - 10bit interlaced 
 
-## User Guide
+### User Guide
  Install module using npm
  
  ** npm install yuv-video **
