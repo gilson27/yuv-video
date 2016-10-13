@@ -1,0 +1,34 @@
+{
+  "name": "yuv-video",
+  "version": "1.0.0",
+  "description": "A nodejs module to read YUV video file and convert it to different formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilson27/yuv-video.git"
+  },
+  "keywords": [
+    "yuv",
+    "video",
+    "read",
+    "image",
+    "conversion",
+    "video",
+    "transform",
+    "image",
+    "transform",
+    "ffmpeg",
+    "codec",
+    "video",
+    "codec"
+  ],
+  "author": "Gilson Varghese",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/gilson27/yuv-video/issues"
+  },
+  "homepage": "https://github.com/gilson27/yuv-video#readme"
+}
