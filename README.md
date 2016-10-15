@@ -1,5 +1,7 @@
 # yuv-video
 
+[![GitHub issues](https://img.shields.io/github/issues/gilson27/yuv-video.svg)](https://github.com/gilson27/yuv-video/issues)
+
 [![GitHub license](https://img.shields.io/badge/license-New%20BSD-blue.svg)](https://raw.githubusercontent.com/gilson27/yuv-video/master/LICENSE)
 
 A nodejs module to read YUV video file and convert it to different formats.
