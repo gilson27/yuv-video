@@ -1,5 +1,7 @@
 # yuv-video
 
+[![GitHub license](https://img.shields.io/badge/license-New%20BSD-blue.svg)](https://raw.githubusercontent.com/gilson27/yuv-video/master/LICENSE)
+
 A nodejs module to read YUV video file and convert it to different formats.
 
 Raw videos (Videos captured by camera before processing) are mainly in two formats: RGB and YUV. This module aims to help users to read YUV
